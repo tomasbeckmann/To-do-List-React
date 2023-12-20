@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tarea-texto {
+    width: 100%;
+    min-height: 50px;
+    background-color: #7A89C2;
+    font-size: 20px;
+    color: #F1EBFF;
+    padding-top: 8px;
+}
